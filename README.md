@@ -3,3 +3,6 @@
 structur data dan algoritma adalah pembelajaran yang mengharuskan kita harus mengefisienkan program kita dan melakukan tata letak yang ada di struktur data dan algoritma yang kita buat serta memahami cara kerja dan penyelesaian suatu problem untuk computasi yang digunakan.
 
 ##  learning recursif and loop basic
+
+Besic pertama ini adalah penggunaan recursif pada studi kasus bilangan fibonaci rumus yang sesuai dengan fibonaci ini adalah 
+$$F(n) = F(n-1) + F(n-2)$$
