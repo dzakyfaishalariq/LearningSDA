@@ -1,3 +1,7 @@
-from datetime import datetime as date
+# learning recursif
+# learning recursif to factorial
+from projek.recursif import fibonaciByForLoop
 
-print("god " + str(date.now().strftime("%d")) + " day")
+
+if __name__ == "__main__":
+    fibonaciByForLoop(5)
