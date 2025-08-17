@@ -5,4 +5,5 @@ structur data dan algoritma adalah pembelajaran yang mengharuskan kita harus men
 ##  learning recursif and loop basic
 
 Besic pertama ini adalah penggunaan recursif pada studi kasus bilangan fibonaci rumus yang sesuai dengan fibonaci ini adalah 
+
 $$F(n) = F(n-1) + F(n-2)$$
